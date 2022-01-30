@@ -10,4 +10,8 @@
 ### Rodar o projeto no Android
 - npx react-native run-android
 
+### Imagem do App
+
+![App Gerador de QrCode](https://github.com/leandrodklein/appgerarqrcode/blob/master/public/appgerarqrcode.jpg)
+
 
